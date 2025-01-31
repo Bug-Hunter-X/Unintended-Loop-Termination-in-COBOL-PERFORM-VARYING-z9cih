@@ -1,0 +1,1 @@
+This example demonstrates an uncommon error in COBOL involving the PERFORM VARYING statement. The program intends to count from 1 to 100, but due to an incorrect condition in the UNTIL clause, it might not behave as expected. The solution provides the correct implementation.
